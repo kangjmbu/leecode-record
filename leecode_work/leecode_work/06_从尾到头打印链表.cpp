@@ -45,7 +45,7 @@ void test06()
 
 
 }
-int main()
+int main6()
 {
 	test06();
 	system("pause");
